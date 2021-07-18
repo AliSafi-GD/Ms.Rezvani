@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 58f1c8b8ef698344e8ec52dcb541a785
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cijevi_i_drzaci
+    100002: fuel_tank
+    100004: malecni_motorici
+    100006: mali_motori
+    100008: prozorici
+    100010: sajbe
+    100012: shuttle_motor_veliki_gornji
+    100014: shuttle_motor_veliki_gornjikostur
+    100016: shuttle_motori_veliki_doljnji
+    100018: shuttle_motori_veliki_doljnji_kostur
+    100020: shuttle_najmanji_motorici
+    100022: shuttle_ono_ispod_motora
+    100024: shuttle_ono_od_motora
+    100026: shuttle_rep
+    100028: solid_rocket_boosters
+    100030: //RootNode
+    400000: cijevi_i_drzaci
+    400002: fuel_tank
+    400004: malecni_motorici
+    400006: mali_motori
+    400008: prozorici
+    400010: sajbe
+    400012: shuttle_motor_veliki_gornji
+    400014: shuttle_motor_veliki_gornjikostur
+    400016: shuttle_motori_veliki_doljnji
+    400018: shuttle_motori_veliki_doljnji_kostur
+    400020: shuttle_najmanji_motorici
+    400022: shuttle_ono_ispod_motora
+    400024: shuttle_ono_od_motora
+    400026: shuttle_rep
+    400028: solid_rocket_boosters
+    400030: //RootNode
+    2100000: white_body.001
+    2100002: crni2.001
+    2100004: crno1.001
+    2100006: staklo.001
+    2100008: nose.001
+    2100010: white_body.003
+    2100012: sivo_od_krila.001
+    2100014: white_body.002
+    2100016: white_body.004
+    2100018: staklo
+    2100020: metal_crni_krugovi
+    2100022: metal_veliki_motori
+    2100024: metal_kostur
+    2100026: crno1
+    2100028: white_body
+    2100030: mali_motori
+    2100032: fuel_tank_top_black
+    2100034: fuel_tank_zuto
+    2100036: fuel_tank_main
+    2100038: fuel_tank_pruge
+    2100040: fuel_tank_pruge.001
+    2100042: side_boosters_white_shiny
+    2100044: zutkasto_hrapavije_boosters
+    2100046: narancasto_boosteri
+    2100048: crveno_boosters.001
+    2100050: crno_rakete
+    2100052: fuel_tank_zuto.001
+    2100054: fuel_tank_top_black.001
+    2100056: narancasto_boosteri.001
+    2100058: side_boosters_white_shiny.001
+    2100060: fuel_tank_main.001
+    2100062: crveno_boosters.002
+    2100064: silverish_grey.001
+    2300000: cijevi_i_drzaci
+    2300002: fuel_tank
+    2300004: malecni_motorici
+    2300006: mali_motori
+    2300008: prozorici
+    2300010: sajbe
+    2300012: shuttle_motor_veliki_gornji
+    2300014: shuttle_motor_veliki_gornjikostur
+    2300016: shuttle_motori_veliki_doljnji
+    2300018: shuttle_motori_veliki_doljnji_kostur
+    2300020: shuttle_najmanji_motorici
+    2300022: shuttle_ono_ispod_motora
+    2300024: shuttle_ono_od_motora
+    2300026: shuttle_rep
+    2300028: solid_rocket_boosters
+    2300030: //RootNode
+    3300000: cijevi_i_drzaci
+    3300002: fuel_tank
+    3300004: malecni_motorici
+    3300006: mali_motori
+    3300008: prozorici
+    3300010: sajbe
+    3300012: shuttle_motor_veliki_gornji
+    3300014: shuttle_motor_veliki_gornjikostur
+    3300016: shuttle_motori_veliki_doljnji
+    3300018: shuttle_motori_veliki_doljnji_kostur
+    3300020: shuttle_najmanji_motorici
+    3300022: shuttle_ono_ispod_motora
+    3300024: shuttle_ono_od_motora
+    3300026: shuttle_rep
+    3300028: solid_rocket_boosters
+    3300030: //RootNode
+    4300000: shuttle_body
+    4300002: prozorici
+    4300004: sajbe
+    4300006: shuttle_motor_veliki_gornji
+    4300008: shuttle_motor_veliki_gornjikostur
+    4300010: shuttle_rep
+    4300012: shuttle_ono_ispod_motora
+    4300014: malecni_motorici
+    4300016: shuttle_najmanji_motorici
+    4300018: mali_motori
+    4300020: shuttle_motori_veliki_doljnji
+    4300022: shuttle_motori_veliki_doljnji_kostur
+    4300024: shuttle_ono_od_motora
+    4300026: fuel_tank
+    4300028: solid_rocket_boosters
+    4300030: cijevi_i_drzaci
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crni2.001
+    second: {fileID: 2100000, guid: 4d05ec463faaf8744a6bae02cd65c396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crno1
+    second: {fileID: 2100000, guid: f5ea86ff3d341364c95d5352c0945651, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crno1.001
+    second: {fileID: 2100000, guid: 3ae51f2032f19654e82700b4cf0cbfa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crno_rakete
+    second: {fileID: 2100000, guid: 4b3e9d01273d9904e88fcfbcb4e5f8a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crveno_boosters.001
+    second: {fileID: 2100000, guid: 6771be979e95788468fba80e459bce67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crveno_boosters.002
+    second: {fileID: 2100000, guid: 84ec418b623feb84880319830f45f22d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_main
+    second: {fileID: 2100000, guid: fa0096f0aa5770044b68a244c9427a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_main.001
+    second: {fileID: 2100000, guid: 8f5466f3d1a715d47a4d6a73875eb04a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_pruge
+    second: {fileID: 2100000, guid: 032c5555272e12e4c8a1717728ab656b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_pruge.001
+    second: {fileID: 2100000, guid: 728612730596cec4996f22a57009542e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_top_black
+    second: {fileID: 2100000, guid: 01f041305040ad44ea54a01146271065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_top_black.001
+    second: {fileID: 2100000, guid: 3d777b00b3761ca43af2c160b065aba5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_zuto
+    second: {fileID: 2100000, guid: d42609debf315dc47ae6d9bb53ca355f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fuel_tank_zuto.001
+    second: {fileID: 2100000, guid: 6dc8d29be27d71b47a795892f14b1a6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mali_motori
+    second: {fileID: 2100000, guid: 7f2918b0f23329741950e3a4e8efa290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_crni_krugovi
+    second: {fileID: 2100000, guid: 74138af625be4d649bf2914abb0adc5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_kostur
+    second: {fileID: 2100000, guid: aa9ed6ff01d074a46ba81fffe5534219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_veliki_motori
+    second: {fileID: 2100000, guid: dba24c211da40034ea02053cdededf4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: narancasto_boosteri
+    second: {fileID: 2100000, guid: 47166d9b4e781a84091b26f47c35fe19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: narancasto_boosteri.001
+    second: {fileID: 2100000, guid: 2503e89faac31a648b86ea0935ff1bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nose.001
+    second: {fileID: 2100000, guid: 550cccf3d48be684d85e5581402a20db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_boosters_white_shiny
+    second: {fileID: 2100000, guid: 952cb23468f5c4b4884fe2d8058c5dff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: side_boosters_white_shiny.001
+    second: {fileID: 2100000, guid: ee66b20c2f9b2034b8b84eafba141d9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silverish_grey.001
+    second: {fileID: 2100000, guid: 128f1eeaf02ee1840b075447617ecf8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sivo_od_krila.001
+    second: {fileID: 2100000, guid: 8845990df0393224e8a265b388699485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: staklo
+    second: {fileID: 2100000, guid: a69f27e204efa0443971ca3dd5f7abb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: staklo.001
+    second: {fileID: 2100000, guid: 15adf651a62df114c9ea6e233a4ca7dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_body
+    second: {fileID: 2100000, guid: 60773b95dcf54304eb6a3db2a7c7479a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_body.001
+    second: {fileID: 2100000, guid: 5a7fcc1a5f7a1de4d8b3944a009bee72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_body.002
+    second: {fileID: 2100000, guid: e6495dda5f4ed2b49aca4c36f7fbb149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_body.003
+    second: {fileID: 2100000, guid: a4786aaea46a4ab4784122f5ee730b48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_body.004
+    second: {fileID: 2100000, guid: edbdf29b4b804c8469ed6e4b51cb6ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zutkasto_hrapavije_boosters
+    second: {fileID: 2100000, guid: ee89c9a01bfc3b8478a936805d4ca5d5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
