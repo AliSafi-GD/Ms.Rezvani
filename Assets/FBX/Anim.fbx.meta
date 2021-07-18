@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 9a0ad8170732b33448f1ccb69995e42b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BandRoo
+    100004: BandRoo1
+    100006: BandRoo2
+    100008: BandRoo3
+    100010: jeld_roo
+    100012: jeld_zir
+    100014: joint10
+    100016: joint10 1
+    100018: joint10 2
+    100020: joint10 3
+    100022: joint11
+    100024: joint11 1
+    100026: joint11 2
+    100028: joint11 3
+    100030: joint12
+    100032: joint12 1
+    100034: joint12 2
+    100036: joint12 3
+    100038: joint13
+    100040: joint13 1
+    100042: joint13 2
+    100044: joint13 3
+    100046: joint14
+    100048: joint14 1
+    100050: joint14 2
+    100052: joint14 3
+    100054: joint16
+    100056: joint16 1
+    100058: joint16 2
+    100060: joint16 3
+    100062: joint16 4
+    100064: joint17
+    100066: joint17 1
+    100068: joint17 2
+    100070: joint17 3
+    100072: joint17 4
+    100074: joint18
+    100076: joint18 1
+    100078: joint18 2
+    100080: joint18 3
+    100082: joint18 4
+    100084: joint19
+    100086: joint19 1
+    100088: joint19 2
+    100090: joint19 3
+    100092: joint19 4
+    100094: joint20
+    100096: joint20 1
+    100098: joint20 2
+    100100: joint20 3
+    100102: joint20 4
+    100104: joint21
+    100106: joint21 1
+    100108: joint21 2
+    100110: joint21 3
+    100112: joint21 4
+    100114: joint22
+    100116: joint22 1
+    100118: joint22 2
+    100120: joint22 3
+    100122: joint22 4
+    100124: joint23
+    100126: joint23 1
+    100128: joint23 2
+    100130: joint23 3
+    100132: joint23 4
+    100134: joint24
+    100136: joint24 1
+    100138: joint24 2
+    100140: joint24 3
+    100142: joint24 4
+    100144: joint25
+    100146: joint25 1
+    100148: joint25 2
+    100150: joint25 3
+    100152: joint25 4
+    100154: joint26
+    100156: joint26 1
+    100158: joint26 2
+    100160: joint26 3
+    100162: joint26 4
+    100164: joint27
+    100166: joint27 1
+    100168: joint27 2
+    100170: joint27 3
+    100172: joint27 4
+    100174: joint3
+    100176: joint4
+    100178: joint6
+    100180: joint8
+    100182: joint8 1
+    100184: joint8 2
+    100186: joint8 3
+    100188: joint9
+    100190: joint9 1
+    100192: joint9 2
+    100194: joint9 3
+    100196: Kaghaz
+    100198: Kaghaz 1
+    100200: Kaghaz 2
+    100202: Kaghaz 3
+    100204: Kaghaz 4
+    100206: Kaghez1
+    100208: Kaghez2
+    100210: Kaghez3
+    100212: Kaghez4
+    100214: Kaghez5
+    100216: pCube1
+    100218: pCube1 1
+    100220: pCube1 2
+    100222: pCube1 3
+    100224: pCube1 4
+    100226: polySurface75
+    100228: Root
+    400000: //RootNode
+    400002: BandRoo
+    400004: BandRoo1
+    400006: BandRoo2
+    400008: BandRoo3
+    400010: jeld_roo
+    400012: jeld_zir
+    400014: joint10
+    400016: joint10 1
+    400018: joint10 2
+    400020: joint10 3
+    400022: joint11
+    400024: joint11 1
+    400026: joint11 2
+    400028: joint11 3
+    400030: joint12
+    400032: joint12 1
+    400034: joint12 2
+    400036: joint12 3
+    400038: joint13
+    400040: joint13 1
+    400042: joint13 2
+    400044: joint13 3
+    400046: joint14
+    400048: joint14 1
+    400050: joint14 2
+    400052: joint14 3
+    400054: joint16
+    400056: joint16 1
+    400058: joint16 2
+    400060: joint16 3
+    400062: joint16 4
+    400064: joint17
+    400066: joint17 1
+    400068: joint17 2
+    400070: joint17 3
+    400072: joint17 4
+    400074: joint18
+    400076: joint18 1
+    400078: joint18 2
+    400080: joint18 3
+    400082: joint18 4
+    400084: joint19
+    400086: joint19 1
+    400088: joint19 2
+    400090: joint19 3
+    400092: joint19 4
+    400094: joint20
+    400096: joint20 1
+    400098: joint20 2
+    400100: joint20 3
+    400102: joint20 4
+    400104: joint21
+    400106: joint21 1
+    400108: joint21 2
+    400110: joint21 3
+    400112: joint21 4
+    400114: joint22
+    400116: joint22 1
+    400118: joint22 2
+    400120: joint22 3
+    400122: joint22 4
+    400124: joint23
+    400126: joint23 1
+    400128: joint23 2
+    400130: joint23 3
+    400132: joint23 4
+    400134: joint24
+    400136: joint24 1
+    400138: joint24 2
+    400140: joint24 3
+    400142: joint24 4
+    400144: joint25
+    400146: joint25 1
+    400148: joint25 2
+    400150: joint25 3
+    400152: joint25 4
+    400154: joint26
+    400156: joint26 1
+    400158: joint26 2
+    400160: joint26 3
+    400162: joint26 4
+    400164: joint27
+    400166: joint27 1
+    400168: joint27 2
+    400170: joint27 3
+    400172: joint27 4
+    400174: joint3
+    400176: joint4
+    400178: joint6
+    400180: joint8
+    400182: joint8 1
+    400184: joint8 2
+    400186: joint8 3
+    400188: joint9
+    400190: joint9 1
+    400192: joint9 2
+    400194: joint9 3
+    400196: Kaghaz
+    400198: Kaghaz 1
+    400200: Kaghaz 2
+    400202: Kaghaz 3
+    400204: Kaghaz 4
+    400206: Kaghez1
+    400208: Kaghez2
+    400210: Kaghez3
+    400212: Kaghez4
+    400214: Kaghez5
+    400216: pCube1
+    400218: pCube1 1
+    400220: pCube1 2
+    400222: pCube1 3
+    400224: pCube1 4
+    400226: polySurface75
+    400228: Root
+    2100000: Bands
+    2100002: Ghofl1
+    2100004: Ghofl2
+    2100006: Gooshe
+    2100008: Diamond
+    2100010: Dookht
+    2100012: Ahani
+    2100014: Gire
+    2100016: Jeld
+    2100018: Kaghaz1
+    2100020: lambert1
+    4300000: polySurface75
+    4300002: pCube1
+    4300004: pCube1
+    4300006: pCube1
+    4300008: pCube1
+    4300010: pCube1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube1
+    13700002: pCube1 1
+    13700004: pCube1 2
+    13700006: pCube1 3
+    13700008: pCube1 4
+    13700010: polySurface75
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ahani
+    second: {fileID: 2100000, guid: 8d7106fd6f57a674eab81ab229c78db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bands
+    second: {fileID: 2100000, guid: 915d3626bf0803f40afef4a7923bac7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diamond
+    second: {fileID: 2100000, guid: 10a1343f6b9da39438863b8e96ee8399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dookht
+    second: {fileID: 2100000, guid: 908d6d9f10c5006408f4bbee7b6e35b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ghofl1
+    second: {fileID: 2100000, guid: ce52e15eb461d604487c1c0ec119e55e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ghofl2
+    second: {fileID: 2100000, guid: 0096eed43f781734b82154cb2280f486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gire
+    second: {fileID: 2100000, guid: 4beb4bf4543091d4981544aeaf9536e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gooshe
+    second: {fileID: 2100000, guid: 569d0978e1a433d42b1b7b3271093cd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jeld
+    second: {fileID: 2100000, guid: 06e282390ac7f634f8e93499c853a3e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kaghaz1
+    second: {fileID: 2100000, guid: 5777903f199a5384592b23e6097236b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: c3d088bced4946541ab1c4aec4211ee4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
