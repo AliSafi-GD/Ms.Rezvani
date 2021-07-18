@@ -1,0 +1,82 @@
+Quantum Highlands: Rocky Hills Terrain Pack
+-------------------------------------------
+
+Quantum Theory presents, Rocky Hills Terrain Pack, a set of high quality terrains for Unity.
+
+
+Package Contains:
+
+
+*     10 low polygon (~2000 triangles) meshes approximately 100mx100m in size. Duplicate, rotate, and compose these in your scene to your liking.
+
+*     10 custom made, hi fidelity 2048x2048 diffuse and normal maps; a set for each mesh.
+
+*     10 16bit RAW heightmaps, custom splat maps, and matching seamless textures used to construct Unity Terrains. 
+ 
+*     Custom made, extremely high resolution 360 degree skybox. Each side of the skybox is 2048x2048.
+
+
+Questions? Comments? Need help? Email support@quantumtheoryentertainment.com with your invoice number.
+
+
+Using the Meshes
+----------------
+
+There are 10 meshes found in the Quantum Theory/Quantum Highlands/Meshes folder labeled A through I. Simply drag the meshes you want into your scene. Beware that the meshes are 100 meters by 100 meters in size. Scale them to fit your scene. Compose them, move them, and rotate them to immerse your audience and help create a truly hi quality experience.
+
+If you want to use these terrains as Unity Terrains, goto the "Creating Unity Terrains" section.
+
+You can find the skybox material in Quantum Theory/Quantum Highlands/Meshes/Materials. The filename is Skybox_QuantumHighlands. Goto Edit -> Render Settings. In the inspector, find the material slot labeled, "Skybox Material." Drag and drop Skybox_QuantumHighlands into this slot and you're ready to go. Since the skybox is not rendered to the zbuffer, the skybox textures have "Generate MipMaps" disabled to save texture memory.
+
+w
+Creating Unity Terrains
+-----------------------
+
+First, goto the Materials folder in Windows and decompress the DisplacementMaps.RAR file. This contains all the 16bit RAW heightmaps you need to create the terrain.
+
+
+1. Create a Unity Terrain in Unity by going to Game Object->Create Other->Terrain. 
+2. Set the topography by selecting the terrain and clicking on the little gear icon in the inspector. Make the terrain width and length the same. Click on "import RAW" and choose any of the RAW displacement map images supplied in the Materials folder.
+3. Keep the width and height at 2048, set the byte order to Windows, and set the terrain x and z values equally. The Y value is terrain height and can be whatever you like.
+4. The terrain is made but the diffuse and normal textures aren't applied yet. In the terrain inspector, click on the small brush button (the button in the middle).
+5. Click on "Edit Textures" then "Add Texture"
+6.  For "Texture" pick the correspoding diffuse texture. For normal map, pick the corresponding normal map. For example, if the displacement map you used was named "QuantumCold_Displacement_A," you would use QuantumCold_Diffuse_A for the diffuse and QuantumCold_Normal_A for the normal map.  For the two size values, put in the terrain x and z values you set in step 4.
+7.  If you added a normal map in the slot, you'll notice a message saying that the terrain requires a material with a normal mapped terrain shader. Simply create a new material in your project using the Nature/Terrain/Bumped Specular shader. 
+8. Click on the terrain to bring up its inspector. Click on the last icon that looks like a little gear. (terrain settings) Drag and drop that new material into the "Material" slot.
+9. Goto the "Replacing the Splat Map with a Custom One" section.
+
+If your terrain appears flat or without detail, try increasing the terrain height. Don't forget to add a directional light to the scene and adjust the ambient color.
+
+Replacing the Splat Map with a Custom One
+-----------------------------------------
+1. Create your Terrain as above.
+2. Assign the textures that you want to use on your terrain as normal. Then make sure you save the scene. 
+3. Find the terrain object file in the Project window. It's usually in the root Assets folder named Terrain1 or similar. Click on the small triangle next to the terrain. This should reveal the splat map similarly named, "SplatAlpha 0."
+4. From the Window menu, choose "Replace Splatmap...". Drag the embedded splatmap inside the terrain to the first "Splatmap" entry, then your imported splatmap to the "New" entry. 
+5. Hit "replace" and the new splatmap will be used.
+
+When using the custom splatmap, the first texture in the terrain texture list is primarily used for ground that's at low altitude. The second is for sheer faces like rock. The third texture is for erosion flow paths through the hillsides.
+
+TIP: use the corresponding quantum_highlands diffuse and normal map for texture 4. Set the X and Y size equal to the terrain length and width. Paint this on the distant terrain features to get the high detailed normal map and diffuse. It looks nice.
+
+More details on using custom splatmaps at: https://www.world-machine.com/learn.php?page=workflow&workflow=wfunity 
+
+Issues
+------
+- If the terrain comes out garbled or messed-up looking when importing the RAW heightmap, it's probably because the byte order was not set to the header in the RAW file. The RAW should be IBMPC and the byte order in unity is Windows. If you're using a Mac, try Mac for both.
+- If it's still messed up, make sure the Width and Height settings are set to 2048 when you're importing the heightfield. Remember, the terrain size can be anything but square is best.
+- Lost? Email support@quantumtheoryentertainment.com with your invoice number.
+
+Got a project that uses Quantum Theory's artwork? Send me an email at support@quantumtheoryentertainment.com and I'll add you to the website's blog at www.qt-ent.com
+
+Credits
+-------
+Thanks to Steven Schmitt for authoring the ReplaceSplatMap utility for Unity!
+
+Version History
+---------------
+version 1.5: Added custom splat maps which help with terrain quality levels for 1st and 3rd person games. Included replace splatmap script. Added demo unity terrain scene with some custom textures.
+
+Version 1.1: Changed TIF files to RAW, added documentation on creating unity terrains
+
+version 1.0: Initial version.
