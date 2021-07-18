@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 11c5e1f319585534ba50f36313445063
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: run_90Degree0
+    21300002: run_90Degree1
+    21300004: run_90Degree2
+    21300006: run_90Degree3
+    21300008: run_90Degree4
+    21300010: run_90Degree5
+    21300012: run_90Degree6
+    21300014: run_90Degree7
+    21300016: run_90Degree8
+    21300018: run_90Degree9
+    21300020: run_90Degree10
+    21300022: run_90Degree11
+    21300024: run_90Degree12
+    21300026: run_90Degree13
+    21300028: run_90Degree14
+    21300030: run_90Degree15
+    21300032: run_90Degree16
+    21300034: run_90Degree17
+    21300036: run_90Degree18
+    21300038: run_90Degree19
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 3
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run_90Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.061349694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6b1fee391f3445b59a3ab5ad02d3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.061349694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d94c91d714ed26409b4158b332b1640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.073619634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1f5a0bc655dce439fb93a9f5c1af14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.09815951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f80e5a52f42b243b2e4feca117c970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 163
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e907ea3b9d43cc44782c22a7bc9c2260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 326
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040df6d72c32aff4dbdaa54113306ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5875165326c3c648900949fc8ee5503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 163
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd97deb925239b4eae2d28b8ef698e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 326
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ff7057aab5314a804bb5b907d7267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc20a0d03dc8e742b36372cf6622140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 163
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cbb41067a17b34994720979f0ad4c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree11
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 326
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be191543a81d07943aaecd9b547c7582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de66d3235773874da8482de3312b3af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 163
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.11042945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577701d7697f3cc40bb6d85042a92fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 326
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.12269939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d200d19b4aa9eb2419fceffdd560a983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.12269939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de15edb390e21414fb2d0e5239e2284b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree16
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.12269939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fedb3e9179a8348bde9db56ee4ec99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree17
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.12269939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c980c68ccecd4389136aa4801a236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 163
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.12269939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb15c61436a5949a202303023095bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run_90Degree19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 326
+        width: 114
+        height: 163
+      alignment: 9
+      pivot: {x: 0.51754385, y: 0.12269939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6902e801875c1f438a1ad85746c26b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
