@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: beab0be32d5cb3d41988d153e1652155
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dima Mostanad
+  fontNames:
+  - Dima Mostanad
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3fb572ba60d9bef42b179e734a673c51, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

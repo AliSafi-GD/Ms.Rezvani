@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b121fbc815e22614b84bf329f2b51495
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ray
+  fontNames:
+  - Ray
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7ba6877246441244e98b932e4fc0e484, type: 3}
+  - {fileID: 12800000, guid: 43c84165f945b3143ae5052a1df0872b, type: 3}
+  - {fileID: 12800000, guid: 53acda074e51a5e46955ede33f672e19, type: 3}
+  - {fileID: 12800000, guid: 69a5937b731eec74d854caeae5f6f640, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

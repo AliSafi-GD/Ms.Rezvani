@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fd0c8ca90caeac04fbc7563eb7b4cb3a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NazaninRahmanian
+  fontNames:
+  - NazaninRahmanian
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 53f55e2399842cf458ef138b5ee352fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e3ca51ec61ea1a14a93f483e92412e1d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dima Khorjin
+  fontNames:
+  - Dima Khorjin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 43e878b7aae53f740a68e79ec6fb7b4b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
