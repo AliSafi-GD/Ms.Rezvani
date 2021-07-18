@@ -1,0 +1,2221 @@
+fileFormatVersion: 2
+guid: c2790554d3f50f54ca9bf369552a231e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OrangeBOT_FBX_Rotate_180Degree0
+    21300002: OrangeBOT_FBX_Rotate_180Degree1
+    21300004: OrangeBOT_FBX_Rotate_180Degree2
+    21300006: OrangeBOT_FBX_Rotate_180Degree3
+    21300008: OrangeBOT_FBX_Rotate_180Degree4
+    21300010: OrangeBOT_FBX_Rotate_180Degree5
+    21300012: OrangeBOT_FBX_Rotate_180Degree6
+    21300014: OrangeBOT_FBX_Rotate_180Degree7
+    21300016: OrangeBOT_FBX_Rotate_180Degree8
+    21300018: OrangeBOT_FBX_Rotate_180Degree9
+    21300020: OrangeBOT_FBX_Rotate_180Degree10
+    21300022: OrangeBOT_FBX_Rotate_180Degree11
+    21300024: OrangeBOT_FBX_Rotate_180Degree12
+    21300026: OrangeBOT_FBX_Rotate_180Degree13
+    21300028: OrangeBOT_FBX_Rotate_180Degree14
+    21300030: OrangeBOT_FBX_Rotate_180Degree15
+    21300032: OrangeBOT_FBX_Rotate_180Degree16
+    21300034: OrangeBOT_FBX_Rotate_180Degree17
+    21300036: OrangeBOT_FBX_Rotate_180Degree18
+    21300038: OrangeBOT_FBX_Rotate_180Degree19
+    21300040: OrangeBOT_FBX_Rotate_180Degree20
+    21300042: OrangeBOT_FBX_Rotate_180Degree21
+    21300044: OrangeBOT_FBX_Rotate_180Degree22
+    21300046: OrangeBOT_FBX_Rotate_180Degree23
+    21300048: OrangeBOT_FBX_Rotate_180Degree24
+    21300050: OrangeBOT_FBX_Rotate_180Degree25
+    21300052: OrangeBOT_FBX_Rotate_180Degree26
+    21300054: OrangeBOT_FBX_Rotate_180Degree27
+    21300056: OrangeBOT_FBX_Rotate_180Degree28
+    21300058: OrangeBOT_FBX_Rotate_180Degree29
+    21300060: OrangeBOT_FBX_Rotate_180Degree30
+    21300062: OrangeBOT_FBX_Rotate_180Degree31
+    21300064: OrangeBOT_FBX_Rotate_180Degree32
+    21300066: OrangeBOT_FBX_Rotate_180Degree33
+    21300068: OrangeBOT_FBX_Rotate_180Degree34
+    21300070: OrangeBOT_FBX_Rotate_180Degree35
+    21300072: OrangeBOT_FBX_Rotate_180Degree36
+    21300074: OrangeBOT_FBX_Rotate_180Degree37
+    21300076: OrangeBOT_FBX_Rotate_180Degree38
+    21300078: OrangeBOT_FBX_Rotate_180Degree39
+    21300080: OrangeBOT_FBX_Rotate_180Degree40
+    21300082: OrangeBOT_FBX_Rotate_180Degree41
+    21300084: OrangeBOT_FBX_Rotate_180Degree42
+    21300086: OrangeBOT_FBX_Rotate_180Degree43
+    21300088: OrangeBOT_FBX_Rotate_180Degree44
+    21300090: OrangeBOT_FBX_Rotate_180Degree45
+    21300092: OrangeBOT_FBX_Rotate_180Degree46
+    21300094: OrangeBOT_FBX_Rotate_180Degree47
+    21300096: OrangeBOT_FBX_Rotate_180Degree48
+    21300098: OrangeBOT_FBX_Rotate_180Degree49
+    21300100: OrangeBOT_FBX_Rotate_180Degree50
+    21300102: OrangeBOT_FBX_Rotate_180Degree51
+    21300104: OrangeBOT_FBX_Rotate_180Degree52
+    21300106: OrangeBOT_FBX_Rotate_180Degree53
+    21300108: OrangeBOT_FBX_Rotate_180Degree54
+    21300110: OrangeBOT_FBX_Rotate_180Degree55
+    21300112: OrangeBOT_FBX_Rotate_180Degree56
+    21300114: OrangeBOT_FBX_Rotate_180Degree57
+    21300116: OrangeBOT_FBX_Rotate_180Degree58
+    21300118: OrangeBOT_FBX_Rotate_180Degree59
+    21300120: OrangeBOT_FBX_Rotate_180Degree60
+    21300122: OrangeBOT_FBX_Rotate_180Degree61
+    21300124: OrangeBOT_FBX_Rotate_180Degree62
+    21300126: OrangeBOT_FBX_Rotate_180Degree63
+    21300128: OrangeBOT_FBX_Rotate_180Degree64
+    21300130: OrangeBOT_FBX_Rotate_180Degree65
+    21300132: OrangeBOT_FBX_Rotate_180Degree66
+    21300134: OrangeBOT_FBX_Rotate_180Degree67
+    21300136: OrangeBOT_FBX_Rotate_180Degree68
+    21300138: OrangeBOT_FBX_Rotate_180Degree69
+    21300140: OrangeBOT_FBX_Rotate_180Degree70
+    21300142: OrangeBOT_FBX_Rotate_180Degree71
+    21300144: OrangeBOT_FBX_Rotate_180Degree72
+    21300146: OrangeBOT_FBX_Rotate_180Degree73
+    21300148: OrangeBOT_FBX_Rotate_180Degree74
+    21300150: OrangeBOT_FBX_Rotate_180Degree75
+    21300152: OrangeBOT_FBX_Rotate_180Degree76
+    21300154: OrangeBOT_FBX_Rotate_180Degree77
+    21300156: OrangeBOT_FBX_Rotate_180Degree78
+    21300158: OrangeBOT_FBX_Rotate_180Degree79
+    21300160: OrangeBOT_FBX_Rotate_180Degree80
+    21300162: OrangeBOT_FBX_Rotate_180Degree81
+    21300164: OrangeBOT_FBX_Rotate_180Degree82
+    21300166: OrangeBOT_FBX_Rotate_180Degree83
+    21300168: OrangeBOT_FBX_Rotate_180Degree84
+    21300170: OrangeBOT_FBX_Rotate_180Degree85
+    21300172: OrangeBOT_FBX_Rotate_180Degree86
+    21300174: OrangeBOT_FBX_Rotate_180Degree87
+    21300176: OrangeBOT_FBX_Rotate_180Degree88
+    21300178: OrangeBOT_FBX_Rotate_180Degree89
+    21300180: OrangeBOT_FBX_Rotate_180Degree90
+    21300182: OrangeBOT_FBX_Rotate_180Degree91
+    21300184: OrangeBOT_FBX_Rotate_180Degree92
+    21300186: OrangeBOT_FBX_Rotate_180Degree93
+    21300188: OrangeBOT_FBX_Rotate_180Degree94
+    21300190: OrangeBOT_FBX_Rotate_180Degree95
+    21300192: OrangeBOT_FBX_Rotate_180Degree96
+    21300194: OrangeBOT_FBX_Rotate_180Degree97
+    21300196: OrangeBOT_FBX_Rotate_180Degree98
+    21300198: OrangeBOT_FBX_Rotate_180Degree99
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574d4789f0d28994db9eb2d60ab8ca62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3cc9da7c9f27149a4d2dcaee21aead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd0e07e6e60604aa6691d058403392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3812ea8b2d2a764aa8a638f1486604c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5db72cadf99ecb44af0fed9beb637e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948b2fee1a73a1478a6767b1a7abbe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d48573515f1203429a677615ce78bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcd8908622aeb547bbcc0d124a174ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree8
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f32b4212bae64eb34c11d5e1ebaf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree9
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4bbffedec925488f587116ef5bc2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree10
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775410859ff155f4790ab89e5a0a9b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree11
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab298ac960711af4f8d98f9c6f414e69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree12
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf6e33f351415e41948c2057dc96c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree13
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b1722844f67d4295b75d278919b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree14
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1875
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d194befdfd2d48874f6825f4c61d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf23e8a774a8574083ded17ed475bdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree16
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bace51094fb7c1a4ab43d6e2fec06425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794dc0ef50928b74b8be5be27e5ea680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48dd92435759c44bb1a0aae0e63279f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a953f270fa47c4b418b5f3ce5da3c7d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa392d55b0a86b740a29addc36d0a61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree21
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac791ad9dd50d548b3d4f6b1dfae87a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671d7a219425e2f4cb88a844e7fd4ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree23
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b9fa53fb82e4e44987b2755d204266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree24
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b0936e408c1704c951030a63f62493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree25
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd25331f82868c45a9e4e38829a6286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree26
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e7f033ee5466d4a913610182fd7d56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree27
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826fea28c7ece4245895033c28edc6bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree28
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe42a736f075e644b799ee2952d3429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree29
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1702
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5915ecf4e3a0ac48b125e6542a6b601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eb2de06e973c645b79c1c060e65060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cef0ed6ee3d2e847836ea9a213077a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb3f37c2b1b4b43927560abf627556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d7f0bc009b25b4eafc453655ebe4e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa1210535c7694b9e6b83a3b11c7d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree35
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f183416c9f5eeb74bb8412ebc3998a03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree36
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c965fc3b26b504495b462bc09f2a73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree37
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43383a5b571697340b6a7e0cb412cd1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree38
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4787ca43445b385429b675f5ffc1e055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree39
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85409c93854312342a1d4fef30fc38f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree40
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26308285cc3b119488364cf30502280b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree41
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3058f93dffa52ae4cb8bb8c2f39cccdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree42
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08717c757ea1504eb6d76538fc4e278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree43
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add62d1e2c6d8f40ae82d1d3505b2a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree44
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1529
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9680aed7e279a2747a115e896176e056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1599b8c16f0df24580f40687e371c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3202526501d4d9f4c9c531381c64c6e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690f572a449c5c743bce229537e6a52f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcc7f1f912e5e345bd664cb55e637d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree49
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfed42b2c809fc42951f3ef822a984a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree50
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a736e44e8a666845a99b7f540467fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree51
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56bfd6a6912bae4b9678d08488ce958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree52
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd384c3caebd7b64b8e0a37d7ecd4f6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree53
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdae0672caf42344bd22391d72110f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree54
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f61455a66254c44b2cb35248037b17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree55
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae6810a47b692e469f84f1d7697dd3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree56
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d38c617946c949a4d1fa1bf8ad13b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree57
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc988171fcafb340a1c55a1eff32d5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree58
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0e64195fad14b40b40078644d90f9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree59
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1356
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2301a4d41b42e14bb8a495ece1010cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c65cb54533eb64b87808c683f7131e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb309dfd0e0ef7746b748235a27bade5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree62
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bda7e33119b08449898eee91824ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree63
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9777dcd693f05f3498fd51ed04e6a2cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree64
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f099cd0f71144a04e937060e0575f71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree65
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c8de4ad27c6c4c9fb92d0cd1c5992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree66
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af74cd7c23e874d8d8aa2732983bd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree67
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987543f2ea545b4ebc1ad68fc003fd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree68
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b267f688acb1b14ba61344aa7612692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree69
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ce17f67bdfd17498e85aa56a89df42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree70
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c666190d7b4284e97157ed670dbecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree71
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778f07271845f76419104e101d28ef95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree72
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4db46ddeebc6da408d40002deac2c42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree73
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a68c07841bda04781952a238916bce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree74
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1183
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e343ddf29879349b02278884e9fe1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95f4c4588ec5044c9ad1c77e5e63450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree76
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95555d3c38abb4489cb54c0f5631cd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree77
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eaea1bd132ac84dbb9c684b1c4ff73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba67e6a6aa883f040a4e5e093a1d51a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree79
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d442906e0b1dda142a08eb273048c118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree80
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deb8a25f5897ce478dffc6baabc06ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree81
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e687e36244544985a4589de30e9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree82
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c81055b70325c45b08bb48d139d0ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree83
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e56d509ae016dc4694edf56213d8d10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree84
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455f063a0ce23b34faed915086229565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree85
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e89cc2d5bb92840aaaff7f57735219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree86
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b2726c6a4df6146ac0d19875a1b05a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree87
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eca5462af6bdb4887112f19c730b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree88
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4303408c2f449914dba1d14851110a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree89
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1010
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5977b552ad0854b9b5fd0dab7455f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa35f538299dbe4abd90ee55e740b51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree91
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1630f8bc66be43940a59788af99f1ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree92
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbafa9bb852e43e41a1c7a36be9d2233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree93
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876dc8e3ac95e0f4d932398ab938212f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree94
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29305ea8d11884f8f6436f2f4229ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree95
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb72882a84b32d4a91a9a10c74d4eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree96
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40251e4b7a67afc4ab15d8c02fde7a07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree97
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077956ffe03c2274192bbe8b27d2d516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree98
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6c21451f32f424eb7f956d48022afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangeBOT_FBX_Rotate_180Degree99
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 837
+        width: 131
+        height: 173
+      alignment: 9
+      pivot: {x: 0.49618322, y: 0.8323699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6948234f15a641c429157adbef0a9d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
