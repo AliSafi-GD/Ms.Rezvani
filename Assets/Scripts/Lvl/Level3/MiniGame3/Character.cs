@@ -49,7 +49,7 @@ public class Character : MonoBehaviour
     {
         isGround = false;
         anim.Play("jump");
-        rigid.velocity = Vector2.up * powerJump;
+        rigid.linearVelocity = Vector2.up * powerJump;
     }
     private void OnCollisionEnter2D(Collision2D col)
     {

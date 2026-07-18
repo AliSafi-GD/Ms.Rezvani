@@ -11,7 +11,7 @@ public class CheckOS : MonoBehaviour
 
     private void Update()
     {
-        checkMaximize.SetActive(!Screen.fullScreen);
+       // checkMaximize.SetActive(!Screen.fullScreen);
     }
     public void MuteAudio(bool b)
     {
